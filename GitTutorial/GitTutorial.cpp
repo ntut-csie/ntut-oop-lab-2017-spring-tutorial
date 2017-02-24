@@ -16,8 +16,7 @@ bool Guess(int number)
         return false;
     }
 
-    return true
-           return false;
+    return true;
 }
 int main()
 {
